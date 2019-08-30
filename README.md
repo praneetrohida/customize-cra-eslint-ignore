@@ -12,12 +12,11 @@ yarn add -D customize-cra-eslint-ignore
 config-overrides.js
 
 ```js
-const enableEslintIgnore = require('customize-cra-eslint-ignore');
-
 const {
   override
 } = require('customize-cra');
 
+const enableEslintIgnore = require('customize-cra-eslint-ignore');
 
 module.exports = (config, env) => {
   config = override(
