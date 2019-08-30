@@ -2,7 +2,7 @@
 
 # customize-cra-eslint-ignore
 
-A library to enable `.eslintrc` support using [customize-cra](https://github.com/arackaf/customize-cra)
+Enable `.eslintrc` support in [create-react-app](https://github.com/facebook/create-react-app) using [customize-cra](https://github.com/arackaf/customize-cra)
 
 
 ### Install
