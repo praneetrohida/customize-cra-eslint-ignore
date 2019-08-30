@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/customize-cra-eslint-ignore.svg)](https://badge.fury.io/js/customize-cra-eslint-ignore)
+
 # customize-cra-eslint-ignore
 
 A library to enable `.eslintrc` support using [customize-cra](https://github.com/arackaf/customize-cra)
