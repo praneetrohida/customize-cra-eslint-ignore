@@ -4,6 +4,9 @@
     "name": "Praneet Rohida",
     "email": "praneetrohida@gmail.com"
   },
+  "repository": {
+    "url": "https://github.com/praneetrohida/customize-cra-eslint-ignore"
+  },
   "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/customize-cra-eslint-ignore.esm.js",

@@ -22,4 +22,4 @@ const enableEslintIgnore = () => (config: Record<string, any>) => {
   return config;
 };
 
-export default enableEslintIgnore;
+module.exports = enableEslintIgnore;
